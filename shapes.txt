@@ -1,2 +1,4 @@
 circle
 square added from local
+
+triangle added from repo
